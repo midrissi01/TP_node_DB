@@ -1,8 +1,6 @@
-Bien sûr, voici le même rapport sans balises HTML :
 
----
 
-**Introduction**
+Introduction
 
 Ce rapport détaille notre expérience avec l'utilisation d'Atlas MongoDB dans le cadre de la conception d'une application suivant le modèle MVC.
 
